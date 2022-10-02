@@ -1,0 +1,13 @@
+h1,h3 {
+    color: red;
+}
+.b {
+    color: brown;
+    letter-spacing: 3px;
+}
+.x {
+    text-decoration: underline;
+}
+.y {
+    text-decoration: line-through;
+}
